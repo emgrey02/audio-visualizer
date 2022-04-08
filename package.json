@@ -1,0 +1,23 @@
+{
+  "name": "audio-visualizer",
+  "version": "1.0.0",
+  "description": "Playing with Web Audio API and maybe MIDI API too??",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emgrey02/audio-visualizer.git"
+  },
+  "keywords": [],
+  "author": "Emma Grey <emgrey02@gmail.com> (https://github.com/emgrey02)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emgrey02/audio-visualizer/issues"
+  },
+  "homepage": "https://github.com/emgrey02/audio-visualizer#readme",
+  "dependencies": {
+    "sass": "^1.50.0"
+  }
+}
